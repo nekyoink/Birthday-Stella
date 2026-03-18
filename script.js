@@ -232,7 +232,7 @@ Today I hope you to feel all the happiness and little miracles that come with be
 
 Thank you for being my friend, even if it's only virtual. You really make my days on Roblox more fun hihihi. I hope this new year of your life brings you more happiness, success, and of course makes you more more beautiful (even though you're already very beautiful!).
 
-I love you so much! 💕💕`;
+I love you so much! (⁠◕⁠ᴗ⁠◕⁠✿⁠)💕💕`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -267,7 +267,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Maria Stella,<br><br>Happy Birthday!<br><br>Today I hope you feel all the happiness and little miracles that come with being in this world. May all your wishes come true! I truly believe that you can overcome any challenge with your amazing strength and spirit. <br><br>Thank you for being my friend even if it's only virtual. You really make my days on Roblox more fun hihihi. I hope this new year of your life brings you more happiness, success, and of course makes you more more beautiful (even though you're already very beautiful!). <br><br>I love you so much! 💕`;
+            const fullMessage = `Hi Maria Stella,<br><br>Happy Birthday!<br><br>Today I hope you feel all the happiness and little miracles that come with being in this world. May all your wishes come true! I truly believe that you can overcome any challenge with your amazing strength and spirit. <br><br>Thank you for being my friend even if it's only virtual. You really make my days on Roblox more fun hihihi. I hope this new year of your life brings you more happiness, success, and of course makes you more more beautiful (even though you're already very beautiful!). <br><br>I love you so much! (⁠◕⁠ᴗ⁠◕⁠✿⁠)💕`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
@@ -323,43 +323,43 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: '💕',
+            text: 'More fun together💕',
             image: './images/foto1.png'
         },
         {
-            text: '🎂',
+            text: 'My cute trioo🎂',
             image: './images/foto2.jpeg'
         },
         {
-            text: '🌟',
+            text: 'Cute trio toooo🌟',
             image: './images/foto3.jpeg'
         },
         {
-            text: '❤️',
+            text: 'Ayo sayang culik aku dong ahahaha❤️',
             image: './images/foto4.jpeg'
         },
         {
-            text: '🥰',
+            text: 'Baby shark n baby pink🥰',
             image: './images/foto5.jpeg'
         },
         {
-            text: '😂',
+            text: 'oyyy cool outfit😂',
             image: './images/foto10.jpeg'
         },
         {
-            text: '☀️',
+            text: 'more moree fun togetherr☀️',
             image: './images/foto8.jpeg'
         },
         {
-            text: '💖',
+            text: '500 expp🥳💖',
             image: './images/foto9.jpeg'
         },
         {
-            text: '💖',
+            text: 'Stella fav emote wkwk😸😹',
             image: './images/foto7.jpeg'
         },
         {
-            text: '💖',
+            text: 'cuteee alwaysss💗✨',
             image: './images/foto11.jpeg'
         },
 
